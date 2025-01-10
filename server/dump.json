@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "username": "Suzel"
+    },
+    {
+      "username": "Rahul Chawla"
+    },
+    {
+      "username": "Preeti"
+    },
+    {
+      "username": "Kenna"
+    },
+    {
+      "username": "Margarete"
+    },
+    {
+      "username": "Felicia"
+    },
+    {
+      "username": "Diana"
+    },
+    {
+      "username": "Effie"
+    },
+    {
+      "username": "Kaleigh"
+    },
+    {
+      "username": "Meghan"
+    },
+    {
+      "username": "Preston"
+    },
+    {
+      "username": "Kyler"
+    },
+    {
+      "username": "Clotilde"
+    }
+  ],
+ "badges": [
+  {
+    "title": "Master Blastor",
+    "img_src": "https://picsum.photos/640/480?random=1"
+  },
+  {
+    "title": "Helping Hand",
+    "img_src": "https://picsum.photos/640/480?random=2"
+  },
+  {
+    "title": "Heavy Driver",
+    "img_src": "https://picsum.photos/640/480?random=3"
+  },
+  {
+    "title": "Hacker",
+    "img_src": "https://picsum.photos/640/480?random=4"
+  },
+  {
+    "title": "Chigma Male",
+    "img_src": "https://picsum.photos/640/480?random=5"
+  },
+  {
+    "title": "Dhakad",
+    "img_src": "https://picsum.photos/640/480?random=6"
+  }
+]
+}
