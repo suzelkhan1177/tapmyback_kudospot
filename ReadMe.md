@@ -4,7 +4,7 @@ This project can be cloned locally and run using a single command
 ### `npm install`
 ### `npm start`
 
-This will start the server and build the application available at `http://localhost:3000`
+This will start the server and build the application available at `http://localhost:5000`
 
 ## Technologies Used
 
